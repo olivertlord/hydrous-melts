@@ -2,5 +2,5 @@
 default.profraw
 *.csv
 *.pptx
-/PVTXu_data/*.xlsx
-/PVTXu_data/default.profraw
+PVTXu_data/*.xlsx
+PVTXu_data/default.profraw
