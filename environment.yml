@@ -1,0 +1,13 @@
+channels:
+  - conda-forge
+dependencies:
+  - appmode
+  - scipy
+  - numpy
+  - ipywidgets
+  - matplotlib
+  - pip
+  - pandas
+  - python-ternary
+  - pip:
+    - jupyter-datatables
