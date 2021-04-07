@@ -2,7 +2,7 @@
 
 ipywidgets==7.5.1
 matplotlib==3.1.1
-pandas==1.1.5
+pandas==0.25.1
 mpltern==0.3.1
 burnman==0.9.0
 numpy==1.19.1
