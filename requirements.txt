@@ -1,7 +1,6 @@
 # requirements.txt file for initialising MyBinder virtual environment
 
 ipywidgets==7.5.1
-itertools
 matplotlib==3.1.1
 pandas==1.1.5
 mpltern==0.3.1
