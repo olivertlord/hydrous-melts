@@ -2,6 +2,7 @@
 *.profraw
 *.pptx
 /*.csv
+.log
 
 PVTXu_data_local/
 .ipynb_checkpoints/
