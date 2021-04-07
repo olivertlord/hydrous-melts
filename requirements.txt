@@ -1,0 +1,14 @@
+# requirements.txt file for initialising MyBinder virtual environment
+
+ipywidgets==7.5.1
+itertools
+matplotlib==3.1.1
+pandas==1.1.5
+mpltern==0.3.1
+burnman==0.9.0
+numpy==1.19.1
+itables==0.2.1
+warnings
+IPython==7.7.0
+scipy==1.3.1
+tqdm==4.50.2
