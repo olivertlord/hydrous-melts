@@ -7,11 +7,10 @@ mpl_toolkits
 mpltern==0.3.1
 numpy==1.19.5
 pandas==0.25.1
-pkg_resources
 scipy==1.5.4
 sinfo==0.3.4
 tqdm==4.60.0
 IPython==7.16.1
 jupyter_client==6.1.2
 jupyter_core==4.6.3
-notebook==6.0.0
+notebook==6.4.1
