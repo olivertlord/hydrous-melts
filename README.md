@@ -8,27 +8,27 @@
 
 <a class="tocSkip"></a>
 
-### <a class="tocSkip">James W. E. Drewitt<sup>a</sup>, Michael J. Walter<sup>b</sup>, John P. Brodholt<sup>c</sup>, Joshua M. R. Muir<sup>d</sup>, and Oliver T. Lord<sup>a</sup></a><a class="tocSkip"></a>
+#### <a class="tocSkip">James W. E. Drewitt<sup>a</sup>, Michael J. Walter<sup>b</sup>, John P. Brodholt<sup>c</sup>, Joshua M. R. Muir<sup>d</sup>, and Oliver T. Lord<sup>a</sup></a><a class="tocSkip"></a>
 
 <a class="tocSkip"></a>
 
-#### <a class="tocSkip"><sup>a</sup> School of Earth Sciences, University of Bristol, Wills Memorial Building, Queens Road, BS8 1RJ, United Kingdom</a><a class="tocSkip"></a>
+<a class="tocSkip"><sup>a</sup> School of Earth Sciences, University of Bristol, Wills Memorial Building, Queens Road, BS8 1RJ, United Kingdom</a><a class="tocSkip"></a>
 
 <a class="tocSkip"></a>
 
-#### <a class="tocSkip"><sup>b</sup> Geophysical Laboratory, Carnegie Institution for Science, 5251 Broad Branch Road NW, Washington D.C. 20015, USA</a><a class="tocSkip"></a>
+<a class="tocSkip"><sup>b</sup> Geophysical Laboratory, Carnegie Institution for Science, 5251 Broad Branch Road NW, Washington D.C. 20015, USA</a><a class="tocSkip"></a>
 
 <a class="tocSkip"></a>
 
-#### <a class="tocSkip"><sup>c</sup> Department of Earth Sciences, University College London, Gower Street, London, WC1E 6BT, UK</a><a class="tocSkip"></a>
+<a class="tocSkip"><sup>c</sup> Department of Earth Sciences, University College London, Gower Street, London, WC1E 6BT, UK</a><a class="tocSkip"></a>
 
 <a class="tocSkip"></a>
 
-#### <a class="tocSkip"><sup>d</sup> University of Leeds, School of Earth and Environment, Leeds, LS2 9JT</a><a class="tocSkip"></a>
+<a class="tocSkip"><sup>d</sup> University of Leeds, School of Earth and Environment, Leeds, LS2 9JT</a><a class="tocSkip"></a>
 
 <a class="tocSkip"></a>
 
-### <a class="tocSkip">Jupyter Notebook Written by</a> [Oliver T Lord](mailto:oliver.lord@bristol.ac.uk), [(School of Earth Sciences, University of Bristol)](http://www.bristol.ac.uk/earthsciences/people/person/oliver-t-lord/overview.html)<a class="tocSkip"></a>
+#### <a class="tocSkip">Jupyter Notebook Written by</a> [Oliver T Lord](mailto:oliver.lord@bristol.ac.uk), [(School of Earth Sciences, University of Bristol)](http://www.bristol.ac.uk/earthsciences/people/person/oliver-t-lord/overview.html)<a class="tocSkip"></a>
 
 <a class="tocSkip">  
 Copyright 2020 Oliver Lord. This notebook is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This notebook is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. A copy of the GNU General Public License can be found in the associated GitHub repository. If not, see <http: www.gnu.org="" licenses="">.</http:></a>
