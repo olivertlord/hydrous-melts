@@ -33,6 +33,24 @@
 <a class="tocSkip">  
 Copyright 2020 Oliver Lord. This notebook is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This notebook is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. A copy of the GNU General Public License can be found in the associated GitHub repository. If not, see <http: www.gnu.org="" licenses="">.</http:></a>
 
-### <a class="tocSkip">Dependencies:</a><a class="tocSkip"></a>
+#### <a class="tocSkip">Dependencies:</a><a class="tocSkip"></a>
 
-<a class="tocSkip">Tables are presented using a combination of the</a> [Pandas](https://pypi.org/project/pandas/) and [iTables](https://pypi.org/project/itables/) libraries. Ternary plots are prodcued using the [mpltern](https://pypi.org/project/mpltern/) library, an extension of [Matplotlib](https://matplotlib.org/). Fitting is performed using the orthogonal distance regression method based on the ODRPACK Fortran library<sup>1</sup> as implimented in [Scipy](https://www.scipy.org/). At each compositional point, pressures are calculated using the Mie-Grueneisen-Debye thermal Equation of State as implemented in the [Burnman](https://pypi.org/project/burnman/) thermodynamics toolkit<sup>2</sup>. More information on Burnman and its developers can be found [here](https://burnman.org/). Interactive ocontrol widgets are provided through the [ipywidget](https://pypi.org/project/ipywidgets/) library. In addition to those mentioned above, this notebook also requires the [Numpy](https://pypi.org/project/numpy/), [itertools](https://docs.python.org/3/library/itertools.html), [IPython](https://pypi.org/project/ipython/) and [tqdm](https://pypi.org/project/tqdm/) libraries. Finally, this notebook is made available to anyone, anywhere, in an immediately executable form, from its [Github repository](https://github.com/olivertlord/hydrous-melts) via the [Binder](https://mybinder.org/v2/gh/olivertlord/hydrous-melts/main?urlpath=apps%2Fhydrous_melt_PVTX.ipynb) service. ___ <sup>1</sup>Zwolak, J. W., Boggs, P. T. & Watson, L. T. Algorithm 869: ODRPACK95: A weighted orthogonal distance regression code with bound constraints. Acm Transactions Math Softw Toms 33, 27 (2007). <sup>2</sup>Cottaar, S., Heister, T., Rose, I. & Unterborn, C. BurnMan: A lower mantle mineral physics toolkit. Geochemistry, Geophysics, Geosystems 15, 1164–1179 (2014).
+<a class="tocSkip">Tables are presented using a combination of the</a> [Pandas](https://pypi.org/project/pandas/) and [iTables](https://pypi.org/project/itables/) libraries. 
+
+Ternary plots are prodcued using the [mpltern](https://pypi.org/project/mpltern/) library, an extension of [Matplotlib](https://matplotlib.org/). 
+
+Fitting is performed using the orthogonal distance regression method based on the ODRPACK Fortran library<sup>1</sup> as implimented in [Scipy](https://www.scipy.org/). 
+
+At each compositional point, pressures are calculated using the Mie-Grueneisen-Debye thermal Equation of State as implemented in the [Burnman](https://pypi.org/project/burnman/) thermodynamics toolkit<sup>2</sup>. More information on Burnman and its developers can be found [here](https://burnman.org/). 
+
+Interactive ocontrol widgets are provided through the [ipywidget](https://pypi.org/project/ipywidgets/) library. 
+
+In addition to those mentioned above, this notebook also requires the [Numpy](https://pypi.org/project/numpy/), [itertools](https://docs.python.org/3/library/itertools.html), [IPython](https://pypi.org/project/ipython/) and [tqdm](https://pypi.org/project/tqdm/) libraries. 
+
+Finally, this notebook is made available to anyone, anywhere, in an immediately executable form, from its [Github repository](https://github.com/olivertlord/hydrous-melts) via the [Binder](https://mybinder.org/v2/gh/olivertlord/hydrous-melts/main?urlpath=apps%2Fhydrous_melt_PVTX.ipynb) service. 
+
+***
+
+<sup>1</sup>Zwolak, J. W., Boggs, P. T. & Watson, L. T. Algorithm 869: ODRPACK95: A weighted orthogonal distance regression code with bound constraints. Acm Transactions Math Softw Toms 33, 27 (2007). 
+
+<sup>2</sup>Cottaar, S., Heister, T., Rose, I. & Unterborn, C. BurnMan: A lower mantle mineral physics toolkit. Geochemistry, Geophysics, Geosystems 15, 1164–1179 (2014).
