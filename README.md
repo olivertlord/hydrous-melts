@@ -1,5 +1,5 @@
-<h1 align="center">Supplementary information for<a class="tocSkip"></h1>
-<h1 align="center">Hydrous Silicate Melts and the Transition-Zone Water Filter<a class="tocSkip"></h1>
+<h3 align="center">Supplementary information for<a class="tocSkip"></h3>
+<h2 align="center">Hydrous Silicate Melts and the Transition-Zone Water Filter<a class="tocSkip"></h2>
 
 <h3 align="center">James W. E. Drewitt<sup>a</sup>, Michael J. Walter<sup>b</sup>, John P. Brodholt<sup>c</sup>, Joshua M. R. Muir<sup>d</sup>, and Oliver T. Lord<sup>a</sup><a class="tocSkip"></h3>
 
