@@ -31,7 +31,7 @@
 #### <a class="tocSkip">Jupyter Notebook Written by</a> [Oliver T Lord](mailto:oliver.lord@bristol.ac.uk), [(School of Earth Sciences, University of Bristol)](http://www.bristol.ac.uk/earthsciences/people/person/oliver-t-lord/overview.html)<a class="tocSkip"></a>
 
 <a class="tocSkip">  
-Copyright 2020 Oliver Lord. This notebook is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This notebook is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. A copy of the GNU General Public License can be found in this GitHub repository.
+Copyright 2020 Oliver Lord. This notebook is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This notebook is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. A copy of the GNU General Public License can be found in this GitHub repository and at https://www.gnu.org/licenses/.
 
 #### <a class="tocSkip">Dependencies:</a><a class="tocSkip"></a>
 
