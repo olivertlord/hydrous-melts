@@ -13,4 +13,4 @@ tqdm==4.60.0
 IPython==7.16.3
 jupyter_client==7.0.6
 jupyter_core==4.9.1
-notebook==6.4.1
+notebook==6.4.10
