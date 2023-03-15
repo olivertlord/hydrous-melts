@@ -14,3 +14,4 @@ IPython==7.16.3
 jupyter_client==6.1.2
 jupyter_core==4.6.3
 notebook==6.4.10
+appmode
