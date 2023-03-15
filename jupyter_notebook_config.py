@@ -1,1 +1,1 @@
-c.ContentsManager.allow_hidden = True
+jupyter notebook --Appmode.hidden_temp_files=False
