@@ -3,7 +3,6 @@ channels:
  - conda-forge
 dependencies:
  - python=3.6.10
- - appmode=0.9.0
  - pip
  - pip:
    - burnman==0.9.0
@@ -23,3 +22,4 @@ dependencies:
    - jupyterlab==3.2.9
    - notebook==6.4.1
    - jupyter-contrib-nbextensions
+   - appmode==0.9.0
