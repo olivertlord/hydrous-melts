@@ -1,10 +1,14 @@
 {
   "name": "Jupyter Auto-Run",
   "image": "mcr.microsoft.com/devcontainers/python:3",
-  "extensions": [
-    "ms-python.python",
-    "ms-toolsai.jupyter"
-  ],
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-toolsai.jupyter"
+      ]
+    }
+  },
   "postCreateCommand": "pip install -r requirements.txt && chmod +x .devcontainer/startup.sh",
   "postStartCommand": "nohup bash -c 'sleep 10 && jupyter notebook --NotebookApp.token='' --NotebookApp.password='' --no-browser --ip=0.0.0.0 --NotebookApp.allow_origin=\"*\" --NotebookApp.base_url=${CODESPACE_NAME}-8888.${GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN} & .devcontainer/startup.sh' &",
   "forwardPorts": [8888],
