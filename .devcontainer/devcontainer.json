@@ -4,7 +4,7 @@
   "features": {
     "ghcr.io/devcontainers/features/jupyterlab:1": {}
   },
-  "postCreateCommand": "pip install -r requirements.txt",
+  "postCreateCommand": "pip install -r requirements.txt && jupyter lab --ip=0.0.0.0 --port=8888 --no-browser &",
   "customizations": {
     "vscode": {
       "settings": {
