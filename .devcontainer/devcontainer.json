@@ -1,10 +1,8 @@
 {
   "name": "Hydrous Melts Environment",
-  "image": "mcr.microsoft.com/devcontainers/python:3.10", 
-  "features": {
-    "ghcr.io/devcontainers/features/jupyterlab:1": {}
-  },
-  "postCreateCommand": "pip install -r requirements.txt && jupyter lab --ip=0.0.0.0 --port=8888 --no-browser &",
+  "image": "mcr.microsoft.com/devcontainers/python:3.10",
+  "features": {},
+  "postCreateCommand": "pip install -r requirements.txt",
   "customizations": {
     "vscode": {
       "settings": {
