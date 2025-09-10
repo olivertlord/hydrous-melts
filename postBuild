@@ -1,8 +1,5 @@
 #!/bin/bash
 set -e
 
-# Enable ipywidgets
-jupyter nbextension enable --py widgetsnbextension --sys-prefix
-
-# Enable voila
-jupyter serverextension enable voila --sys-prefix
+# Trust all notebooks in the repo (optional but often helpful)
+jupyter trust *.ipynb
