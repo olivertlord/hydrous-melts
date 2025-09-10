@@ -1,9 +1,10 @@
-#jupyter contrib nbextension install
-#jupyter nbextension enable --py widgetsnbextension
-#jupyter nbextension enable python-markdown/main
-pip install appmode
-jupyter nbextension     enable --py --sys-prefix appmode
-jupyter serverextension enable --py --sys-prefix appmode
+#!/bin/bash
+set -e
 
-# Notebooks w/ extensions that auto-run code must be "trusted" to work the first time
-jupyter trust hydrous_melt_PVTX.ipynb
+# Enable ipywidgets
+jupyter nbextension enable --py widgetsnbextension --sys-prefix
+
+# Enable voila (mostly redundant with JupyterLab 3+, but safe)
+jupyter serverextension enable voila --sys-prefix
+jupyter nbextension install voila --sys-prefix --py
+jupyter nbextension enable voila --sys-prefix --py
