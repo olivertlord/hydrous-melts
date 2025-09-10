@@ -4,7 +4,5 @@ set -e
 # Enable ipywidgets
 jupyter nbextension enable --py widgetsnbextension --sys-prefix
 
-# Enable voila (mostly redundant with JupyterLab 3+, but safe)
+# Enable voila
 jupyter serverextension enable voila --sys-prefix
-jupyter nbextension install voila --sys-prefix --py
-jupyter nbextension enable voila --sys-prefix --py
