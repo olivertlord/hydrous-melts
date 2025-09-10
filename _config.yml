@@ -1,3 +1,0 @@
-# Enable Jekyll to include files with .ipynb extension
-include:
-  - docs/apps/hydrous_melt_PVTX.ipynb
