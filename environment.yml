@@ -16,3 +16,4 @@ dependencies:
       - itables
       - session-info
       - jovian
+      - tqdm
